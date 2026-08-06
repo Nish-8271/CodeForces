@@ -9,7 +9,6 @@ public class Bits {
            int x=in.nextInt();
            List<Integer> curr=new ArrayList<>();
           List<Integer> rev=new ArrayList<>();
-          
       }
 
     }
